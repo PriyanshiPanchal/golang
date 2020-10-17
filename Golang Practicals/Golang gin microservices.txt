@@ -1,0 +1,7 @@
+https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin
+
+https://medium.com/hepsiburadatech/building-golang-microservices-with-gin-gonic-673f4fced794
+
+https://blog.codecentric.de/en/2020/04/golang-gin-mongodb-building-microservices-easily/
+
+https://chenyitian.gitbooks.io/gin-tutorials/content/gin/4.html
